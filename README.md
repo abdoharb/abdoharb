@@ -59,17 +59,6 @@ With over 9 years of experience in programming, I am a skilled developer who has
 Grade: Good  
 Graduation Year: 2016
 
-## 🚀 Featured Projects
-
-### [E-commerce Platform](https://github.com/yourusername/repository1)
-Built a scalable e-commerce platform that allows users to create their own online stores with customized templates and branding. Implemented using Laravel, Vue.js, and MySQL.
-
-### [Multi-tenant Application Framework](https://github.com/yourusername/repository2)
-Developed a multi-tenant architecture supporting both single and multi-database configurations, with customizable domains and user management systems. Built with Laravel and AWS.
-
-### [API Integration Hub](https://github.com/yourusername/repository3)
-Created a centralized system for managing multiple third-party API integrations, allowing seamless data synchronization across platforms. Built with Laravel, Redis for caching, and MySQL.
-
 ## 🌱 Continuous Learning
 
 - Self-study and online programming courses
